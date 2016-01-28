@@ -1,0 +1,39 @@
+[
+  {
+    "id": "4",
+    "name": "conf.lua",
+    "type": "lua"
+  },
+  {
+    "id": "5",
+    "name": "main.lua",
+    "type": "lua"
+  },
+  {
+    "id": "6",
+    "name": "assets",
+    "type": null,
+    "children": [
+      {
+        "id": "0",
+        "name": "bullet.png",
+        "type": "blob"
+      },
+      {
+        "id": "1",
+        "name": "enemy.png",
+        "type": "blob"
+      },
+      {
+        "id": "2",
+        "name": "gun-sound.wav",
+        "type": "blob"
+      },
+      {
+        "id": "3",
+        "name": "plane.png",
+        "type": "blob"
+      }
+    ]
+  }
+]
